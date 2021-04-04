@@ -10,3 +10,6 @@ https://www.8bitmen.com/youtube-database-how-does-it-store-so-many-videos-withou
 
 ### Cara Handle Error pada Microservice
 https://medium.com/the-legend/cara-handle-error-pada-microservice-dcd2190ada9e
+
+### Laravel Collection Tutorial
+https://linuxhint.com/laravel_collection_tutorial/
