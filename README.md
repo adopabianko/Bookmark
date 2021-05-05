@@ -13,3 +13,6 @@ https://medium.com/the-legend/cara-handle-error-pada-microservice-dcd2190ada9e
 
 ### Laravel Collection Tutorial
 https://linuxhint.com/laravel_collection_tutorial/
+
+### Node.js Async Await Tutorial – With Asynchronous JavaScript Examples
+https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/
