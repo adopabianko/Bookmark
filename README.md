@@ -16,3 +16,6 @@ https://linuxhint.com/laravel_collection_tutorial/
 
 ### Node.js Async Await Tutorial – With Asynchronous JavaScript Examples
 https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/
+
+### SOLID: The First 5 Principles of Object Oriented Design
+https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
