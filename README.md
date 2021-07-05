@@ -19,3 +19,6 @@ https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous
 
 ### SOLID: The First 5 Principles of Object Oriented Design
 https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
+
+### All about Go
+https://golangbyexample.com/
