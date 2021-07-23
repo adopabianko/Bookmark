@@ -22,3 +22,6 @@ https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-f
 
 ### All about Go
 https://golangbyexample.com/
+
+### Bagaimana Merekrut Software Engineer Secara Efektif
+https://medium.com/pujanggateknologi/bagaimana-merekrut-software-engineer-secara-efektif-366d18abd591
