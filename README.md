@@ -25,3 +25,6 @@ https://golangbyexample.com/
 
 ### Bagaimana Merekrut Software Engineer Secara Efektif
 https://medium.com/pujanggateknologi/bagaimana-merekrut-software-engineer-secara-efektif-366d18abd591
+
+### Performa Apache Druid dibanding dengan ekosistem MYSQL
+https://community.algostudio.net/performa-apache-druid-dibanding-dengan-ekosistem-mysql/
